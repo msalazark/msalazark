@@ -47,9 +47,8 @@
 ---
 
 ## 📬 **Let's Connect!**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tuusuario/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Web-green?style=flat&logo=internet-explorer)](https://tuportafolio.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/tuusuario)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/msalazark/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/msalazark)  
 
 ---
 
