@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Hi, I'm Miguel Salazar 
 
-<!--
-**msalazark/msalazark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Expert in Data Management, AI, and Digital Business Strategy**  
+💡 Passionate about transforming data into actionable insights to drive business growth.  
 
-Here are some ideas to get you started:
+## 🚀 **About Me**
+- 🏆 +25 years of experience in **technology, data analytics, and digital business**  
+- 📊 Specializing in **E-commerce, AI-driven solutions, and marketing analytics**  
+- 💻 Experienced in **data management, predictive modeling, and dashboard development**  
+- 🔥 Led high-impact projects in **Niubiz, Xiaomi Perú, Movistar, Crisol, and more**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 **Tech Stack & Skills**
+🔹 **Data & AI:** Python, SQL, Power BI, Looker, TensorFlow  
+🔹 **Web & Cloud:** AWS, Magento, Next.js, Node.js  
+🔹 **Analytics & Marketing:** Google Analytics, SEO, Digital Ads, Market Basket Analysis  
+🔹 **Project Management:** Agile, Scrum, Data-Driven Decision Making  
+
+---
+
+## 📌 **Featured Projects**
+| 🚀 Project | 📄 Description | 🔗 Link |
+|------------|--------------|---------|
+| **E-commerce Recommender System** | AI model for personalized product recommendations | Soon ...  |
+| **Marketing Analytics Dashboard** | Real-time insights for campaign performance | Soon ...  |
+| **Customer Segmentation (AI)** | Predictive model for churn and behavior analysis | Soon ...  |
+| **Forescast Tool** | Predictive model based on Streamlit and Prophet | [Repo] (https://github.com/msalazark/forecast_prophet)  |
+
+---
+
+## 📈 **Key Achievements**
+✔ **90% of projects completed on time & budget** (Niubiz, Xiaomi, Movistar, etc.)  
+✔ **S/. 6M in annual digital sales** & **170% Conversion Rate growth (Movistar)**  
+✔ **20% increase in organic traffic** & successful **Magento Commerce relaunch**  
+✔ **Internationalization of consulting services**  
+
+---
+
+## 📚 **Education & Teaching Experience**
+🎓 **PhD Candidate in Systems Engineering** – UNMSM *(E-commerce & AI for SMEs)*  
+🎓 **Master’s in Marketing & Business Management** – UPC  
+🎓 **Bachelor’s in Business Administration** – Universidad Ricardo Palma  
+
+👨‍🏫 **University Lecturer** in **Digital Marketing & Analytics** at UPC, UPN, UTP, UNMSM, and ISIL.  
+
+---
+
+## 📬 **Let's Connect!**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tuusuario/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Web-green?style=flat&logo=internet-explorer)](https://tuportafolio.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/tuusuario)  
+
+---
+
+🚀 **Open to collaborations in AI, Data Science, and Digital Business Innovation!** 🚀
