@@ -1,55 +1,53 @@
-# 👋 Hi, I'm Miguel Salazar 
+# 👋 Hi, I'm Miguel Salazar
 
-🎯 **Expert in Data Management, AI, and Digital Business Strategy**  
-💡 Passionate about transforming data into actionable insights to drive business growth.  
-
-## 🚀 **About Me**
-- 🏆 +25 years of experience in **technology, data analytics, and digital business**  
-- 📊 Specializing in **E-commerce, AI-driven solutions, and marketing analytics**  
-- 💻 Experienced in **data management, predictive modeling, and dashboard development**  
-- 🔥 Led high-impact projects in **Niubiz, Xiaomi Perú, Movistar, Crisol, and more**  
+🎯 **Data & AI Consultant · Digital Marketing Analytics · University Lecturer**  
+🏆 25+ years delivering AI-driven projects for Niubiz, Claro, Crisol, Movistar, Xiaomi Perú  
+🎓 PhD Candidate (AI for SMEs) · MBA · Teaching at UPC, UNMSM, UPN
 
 ---
 
-## 🛠 **Tech Stack & Skills**
-🔹 **Data & AI:** Python, SQL, Power BI, Looker, TensorFlow  
-🔹 **Web & Cloud:** AWS, Magento, Next.js, Node.js  
-🔹 **Analytics & Marketing:** Google Analytics, SEO, Digital Ads, Market Basket Analysis  
-🔹 **Project Management:** Agile, Scrum, Data-Driven Decision Making  
+## 🚀 Featured Projects
+
+| Project | Description | Stack | Status |
+|---------|-------------|-------|--------|
+| [🛒 E-commerce Recommender](https://github.com/msalazark/ecommerce-recommender-peru) | Hybrid CF + Content-Based recommender for Peruvian SMEs | Python · Scikit-learn · Streamlit | ✅ Live |
+| [📊 Marketing Analytics Dashboard](https://github.com/msalazark/marketing-analytics-dashboard) | Multi-channel campaign performance: ROAS, funnel, cohorts | Streamlit · Plotly · Pandas | ✅ Live |
+| [🎯 Customer Segmentation & Churn](https://github.com/msalazark/customer-segmentation-churn) | RFM segmentation + LightGBM churn prediction + action engine | LightGBM · Scikit-learn · Streamlit | ✅ Live |
+| [⚙️ MLOps Pipeline — Segmentación Clientes](https://github.com/msalazark/segmentacion-clientes-mlops) | KMeans + MLflow + FastAPI + Docker + Google Cloud Run | MLflow · FastAPI · Docker · GCP | ✅ Live |
+| [🔮 Forecast Tool](https://github.com/msalazark/forecast_prophet) | Traffic & sales forecasting with Prophet + Streamlit | Prophet · Streamlit | ✅ Live |
 
 ---
 
-## 📌 **Featured Projects**
-| 🚀 Project | 📄 Description | 🔗 Link |
-|------------|--------------|---------|
-| **E-commerce Recommender System** | AI model for personalized product recommendations | [Repo] (https://github.com/msalazark/ecommerce-recommender-peru) |
-| **Marketing Analytics Dashboard** | Real-time insights for campaign performance | [Repo] (https://github.com/msalazark/marketing-analytics-dashboard) |
-| **Customer Segmentation (AI)** | Predictive model for churn and behavior analysis | [Repo] (https://github.com/msalazark/churn_model) |
-| **Forescast Tool** | Predictive model based on Streamlit and Prophet | [Repo] (https://github.com/msalazark/forecast_prophet)  |
+## 🛠 Tech Stack
+
+**AI & ML:** Python · LightGBM · Scikit-learn · TensorFlow · PyTorch · LangChain · OpenCV  
+**MLOps:** MLflow · FastAPI · Docker · Google Cloud Run · Artifact Registry  
+**Data:** BigQuery · GCP · AWS · DuckDB · SQL · ETL pipelines  
+**Analytics:** GA4 · Google Ads · Meta Ads · Looker Studio · Power BI  
+**Web:** React · Next.js · Streamlit · FastAPI  
 
 ---
 
-## 📈 **Key Achievements**
-✔ **90% of projects completed on time & budget** (Niubiz, Xiaomi, Movistar, etc.)  
-✔ **S/. 6M in annual digital sales** & **170% Conversion Rate growth (Movistar)**  
-✔ **20% increase in organic traffic** & successful **Magento Commerce relaunch**  
-✔ **Internationalization of consulting services**  
+## 📈 Key Achievements
+
+✔ USD 1M+ in attributed sales through AI/data-driven strategies (Claro, Diario Universal)  
+✔ S/. 500K+ monthly digital sales managed (Crisol, 35 stores)  
+✔ 170% conversion rate improvement (Movistar) via CRO + analytics  
+✔ 90%+ on-time delivery across 50+ consulting projects
 
 ---
 
-## 📚 **Education & Teaching Experience**
-🎓 **PhD Candidate in Systems Engineering** – UNMSM *(E-commerce & AI for SMEs)*  
-🎓 **Master’s in Marketing & Business Management** – UPC  
-🎓 **Bachelor’s in Business Administration** – Universidad Ricardo Palma  
+## 📚 Education & Research
 
-👨‍🏫 **University Lecturer** in **Digital Marketing & Analytics** at UPC, UPN, UTP, UNMSM, and ISIL.  
-
----
-
-## 📬 **Let's Connect!**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/msalazark/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/msalazark)  
+🎓 PhD Candidate, Systems Engineering — UNMSM *(AI & E-commerce for SMEs)*  
+🎓 MBA — UPC · Master's in Marketing — UPC  
+👨‍🏫 Lecturer: Digital Marketing Analytics at UPC, UNMSM, UPN, UTP, ISIL
 
 ---
 
-🚀 **Open to collaborations in AI, Data Science, and Digital Business Innovation!** 🚀
+## 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-msalazark-blue?style=flat&logo=linkedin)](https://linkedin.com/in/msalazark)
+[![GitHub](https://img.shields.io/badge/GitHub-msalazark-black?style=flat&logo=github)](https://github.com/msalazark)
+
+🚀 **Open to AI consulting collaborations in Latam and Spain**
