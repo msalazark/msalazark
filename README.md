@@ -22,9 +22,9 @@
 ## 📌 **Featured Projects**
 | 🚀 Project | 📄 Description | 🔗 Link |
 |------------|--------------|---------|
-| **E-commerce Recommender System** | AI model for personalized product recommendations | Soon ...  |
-| **Marketing Analytics Dashboard** | Real-time insights for campaign performance | Soon ...  |
-| **Customer Segmentation (AI)** | Predictive model for churn and behavior analysis | Soon ...  |
+| **E-commerce Recommender System** | AI model for personalized product recommendations | [Repo] (https://github.com/msalazark/ecommerce-recommender-peru) |
+| **Marketing Analytics Dashboard** | Real-time insights for campaign performance | [Repo] (https://github.com/msalazark/marketing-analytics-dashboard) |
+| **Customer Segmentation (AI)** | Predictive model for churn and behavior analysis | [Repo] (https://github.com/msalazark/churn_model) |
 | **Forescast Tool** | Predictive model based on Streamlit and Prophet | [Repo] (https://github.com/msalazark/forecast_prophet)  |
 
 ---
