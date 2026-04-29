@@ -15,7 +15,7 @@
 | [🎯 Customer Segmentation & Churn](https://github.com/msalazark/customer-segmentation-churn) | RFM segmentation + LightGBM churn prediction + action engine | LightGBM · Scikit-learn · Streamlit | [✅ Live](https://churnmodel-pte3yugkdhkq5xyaxceovt.streamlit.app/) |
 | [⚙️ MLOps Pipeline — Segmentación Clientes](https://github.com/msalazark/segmentacion-clientes-mlops) | KMeans + MLflow + FastAPI + Docker + Google Cloud Run | MLflow · FastAPI · Docker · GCP | ✅ Live |
 | [🔮 Forecast Tool](https://github.com/msalazark/forecast_prophet) | Traffic & sales forecasting with Prophet + Streamlit | Prophet · Streamlit | [✅ Live](https://forecastprophet-aliadodigital.streamlit.app/) |
-
+| [🔮 RAG Agent](https://github.com/msalazark/rag_agent) | Traffic & sales forecasting with Prophet + Streamlit | Prophet · Streamlit | [✅ Live](https://ragagent-zhjhbtk494yu9fqde5tbo7.streamlit.app/) |
 ---
 
 ## 🛠 Tech Stack
