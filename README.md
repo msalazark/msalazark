@@ -11,7 +11,7 @@
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
 | [🛒 E-commerce Recommender](https://github.com/msalazark/ecommerce-recommender-peru) | Hybrid CF + Content-Based recommender for Peruvian SMEs | Python · Scikit-learn · Streamlit | [✅ Live](https://ecommerce-recommender-peru-sfjnyaw32rzfxmvkk2g2jj.streamlit.app/) |
-| [📊 Marketing Analytics Dashboard](https://github.com/msalazark/marketing-analytics-dashboard) | Multi-channel campaign performance: ROAS, funnel, cohorts | Streamlit · Plotly · Pandas | ✅ Live |
+| [📊 Marketing Analytics Dashboard](https://github.com/msalazark/marketing-analytics-dashboard) | Multi-channel campaign performance: ROAS, funnel, cohorts | Streamlit · Plotly · Pandas | [✅ Live](https://marketing-analytics-dashboard-e5lpqcripwdksawtqi7k9b.streamlit.app/) |
 | [🎯 Customer Segmentation & Churn](https://github.com/msalazark/customer-segmentation-churn) | RFM segmentation + LightGBM churn prediction + action engine | LightGBM · Scikit-learn · Streamlit | ✅ Live |
 | [⚙️ MLOps Pipeline — Segmentación Clientes](https://github.com/msalazark/segmentacion-clientes-mlops) | KMeans + MLflow + FastAPI + Docker + Google Cloud Run | MLflow · FastAPI · Docker · GCP | ✅ Live |
 | [🔮 Forecast Tool](https://github.com/msalazark/forecast_prophet) | Traffic & sales forecasting with Prophet + Streamlit | Prophet · Streamlit | ✅ Live |
