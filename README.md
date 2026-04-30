@@ -13,7 +13,7 @@
 | [🛒 E-commerce Recommender](https://github.com/msalazark/ecommerce-recommender-peru) | Hybrid CF + Content-Based recommender for Peruvian SMEs | Python · Scikit-learn · Streamlit | [✅ Live](https://ecommerce-recommender-peru-sfjnyaw32rzfxmvkk2g2jj.streamlit.app/) |
 | [📊 Marketing Analytics Dashboard](https://github.com/msalazark/marketing-analytics-dashboard) | Multi-channel campaign performance: ROAS, funnel, cohorts | Streamlit · Plotly · Pandas | [✅ Live](https://marketing-analytics-dashboard-e5lpqcripwdksawtqi7k9b.streamlit.app/) |
 | [🎯 Customer Segmentation & Churn](https://github.com/msalazark/customer-segmentation-churn) | RFM segmentation + LightGBM churn prediction + action engine | LightGBM · Scikit-learn · Streamlit | [✅ Live](https://churnmodel-pte3yugkdhkq5xyaxceovt.streamlit.app/) |
-| [⚙️ MLOps Pipeline — Segmentación Clientes](https://github.com/msalazark/segmentacion-clientes-mlops) | KMeans + MLflow + FastAPI + Docker + Google Cloud Run | MLflow · FastAPI · Docker · GCP | ✅ Live |
+| [⚙️ MLOps Pipeline — Segmentación Clientes](https://github.com/msalazark/MLOps-Pipeline) | KMeans + MLflow + FastAPI + Docker + Google Cloud Run | MLflow · FastAPI · Docker · GCP | ✅ Code |
 | [🔮 Forecast Tool](https://github.com/msalazark/forecast_prophet) | Traffic & sales forecasting with Prophet + Streamlit | Prophet · Streamlit | [✅ Live](https://forecastprophet-aliadodigital.streamlit.app/) |
 | [🤖 RAG Agent — E-commerce](https://github.com/msalazark/rag_agent) | Conversational AI agent that answers business questions from internal documents · LangGraph state machine with retrieval grading and query rewriting | LangGraph · OpenAI · ChromaDB · LangSmith | [✅ Live](https://ragagent-zhjhbtk494yu9fqde5tbo7.streamlit.app/) |
 ---
